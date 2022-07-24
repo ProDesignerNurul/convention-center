@@ -1,0 +1,41 @@
+
+.bg-primary{
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+
+.banker{
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px darkgray;
+}
+
+
+
+@media screen and (max-width: 576px) {
+    .carousel-item h1{
+        font-size: 20px;
+    }
+    .carousel-item p{
+        font-size: 10px;
+    }
+    
+}
+
+@media screen and (max-width: 576px) {
+    .every-moment{
+        flex-direction: column-reverse;
+    }
+    .every-moment{
+        text-align: center;
+    }
+    
+}
+
+@media screen and (max-width: 576px) {
+    .carousel img{
+        height: 400px;
+    }
+    
+}
+
